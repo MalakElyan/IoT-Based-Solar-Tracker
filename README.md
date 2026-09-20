@@ -54,6 +54,7 @@ A smart, low-cost **IoT-enabled dual-axis solar tracking and remote environmenta
 
 ---
 
+
 ## 📊 Hardware Telemetry & Mathematical Calculations
 
 ### 1. Voltage Calculation Formula
@@ -65,6 +66,28 @@ $$V_{adc} = \frac{\text{ADC} \times 5.0}{1024.0}, \quad I = \frac{V_{adc} - 2.5}
 
 ### 3. Power Output Calculation
 $$P_{out} = V_{in} \times I \text{ (Watts)}$$
+
+---
+
+### 📸 System Prototype &amp; IoT Interfaces
+
+#### 📱 Blynk IoT Cloud Dashboard
+| Desktop Dashboard | Mobile App (Live Telemetry) | Mobile App (Manual Override) |
+| :---: | :---: | :---: |
+|  <img width="1176" height="575" alt="blynk desktop dashboard" src="https://github.com/user-attachments/assets/181a5372-600e-4ac7-89e5-68a23cb7e91b" />
+| <img width="619" height="917" alt="blynk mobile dashboard1" src="https://github.com/user-attachments/assets/5a309d60-0a4e-4836-a04b-f23d67b05677" /> |<img width="720" height="983" alt="blynk mobile dashboard2" src="https://github.com/user-attachments/assets/4cd3c34a-bdc9-4b86-bbf3-e30e79e37cab" />
+  |
+| *Desktop Analytics View* | *Real-time Sensor Metrics* | *Manual Directional Controls* |
+
+---
+
+#### ⚡ Hardware Rig &amp; Circuit Schematics
+| Circuit &amp; Schematics Design | Physical Prototype Rig |
+| :---: | :---: |
+| <img width="649" height="911" alt="circuit" src="https://github.com/user-attachments/assets/db01b67f-8b49-461c-a034-9e559da81072" />
+ | <img width="852" height="763" alt="body" src="https://github.com/user-attachments/assets/ab5aa133-8e57-4eb3-a6c4-e0bf91b9f771" />
+ |
+| *System Circuit Diagram & Sensor Connections* | *Aluminum Dual-Axis Mechanical Chassis* |
 
 ---
 
