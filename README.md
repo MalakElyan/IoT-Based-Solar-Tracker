@@ -1,3 +1,9 @@
+
+![Arduino](https://img.shields.io/badge/Arduino-Mega_2560-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-IoT_Platform-24C78B?style=for-the-badge&logo=blynk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Embedded-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 # ☀️ Smart IoT-Based Dual-Axis Solar Tracker & Remote Telemetry System
 
 A smart, low-cost **IoT-enabled dual-axis solar tracking and remote environmental/electrical telemetry system** designed to maximize photovoltaic (PV) energy harvesting. By continuously tracking the sun's trajectory on two axes (East-West / North-South) using 4 LDR light sensors and streaming real-time operational metrics over the **Blynk IoT Cloud**, this system increases PV panel energy output efficiency by **30%–40%**.
