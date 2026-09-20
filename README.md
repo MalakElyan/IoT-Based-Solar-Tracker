@@ -1,7 +1,8 @@
 
-![Arduino](https://img.shields.io/badge/Arduino-Mega_2560-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-IoT_Platform-24C78B?style=for-the-badge&logo=blynk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Embedded-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Mega_2560-00E676?style=for-the-badge&amp;logo=arduino&amp;logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-IoT_Cloud-00B0FF?style=for-the-badge&amp;logo=blynk&amp;logoColor=white)
+![C++](https://img.shields.io/badge/Embedded-C%2B%2B-FF9100?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
+
 
 
 # ☀️ Smart IoT-Based Dual-Axis Solar Tracker & Remote Telemetry System
