@@ -12,8 +12,8 @@ A smart, low-cost **IoT-enabled dual-axis solar tracking and remote environmenta
 * **Dual-Axis Automatic Solar Tracking:** Dynamic orientation on horizontal (North/South) and vertical (East/West) axes driven by 4 LDR sensors (CDS GL5528) positioned at panel corners.
   
 * **Dual Operating Modes (Auto / Manual):**
-  * 🟢 **Automatic Mode:** Autonomous light-balancing algorithm that adjusts DC motor positions based on differential LDR light levels.
-  * 🔴 **Manual Mode (Remote Override):** Real-time remote manual directional control (Up, Down, Left, Right) via Blynk IoT virtual buttons during extreme weather or sensor maintenance.
+  *  **Automatic Mode:** Autonomous light-balancing algorithm that adjusts DC motor positions based on differential LDR light levels.
+  *  **Manual Mode (Remote Override):** Real-time remote manual directional control (Up, Down, Left, Right) via Blynk IoT virtual buttons during extreme weather or sensor maintenance.
     
 * **Real-time Remote Telemetry (Blynk IoT & Ethernet):** Live streaming of key environmental and electrical parameters to a mobile app via Wiznet W5100 Ethernet Shield.
   
