@@ -1,11 +1,11 @@
 
-![Arduino](https://img.shields.io/badge/Arduino-Mega_2560-00E676?style=for-the-badge&amp;logo=arduino&amp;logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-IoT_Cloud-00B0FF?style=for-the-badge&amp;logo=blynk&amp;logoColor=white)
-![C++](https://img.shields.io/badge/Embedded-C%2B%2B-FF9100?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
-
-
-
 # ☀️ Smart IoT-Based Dual-Axis Solar Tracker & Remote Telemetry System
+
+---
+
+![Arduino](https://img.shields.io/badge/Arduino-Mega_2560-00E676?style=for-the-badge&logo=arduino&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-IoT_Cloud-00B0FF?style=for-the-badge&logo=blynk&logoColor=white)
+![C++](https://img.shields.io/badge/Embedded-C%2B%2B-FF9100?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 A smart, low-cost **IoT-enabled dual-axis solar tracking and remote environmental/electrical telemetry system** designed to maximize photovoltaic (PV) energy harvesting. By continuously tracking the sun's trajectory on two axes (East-West / North-South) using 4 LDR light sensors and streaming real-time operational metrics over the **Blynk IoT Cloud**, this system increases PV panel energy output efficiency by **30%–40%**.
 
@@ -131,4 +131,9 @@ IoT-Based-Solar-Tracker/
 ---
 
 © 2026 Smart IoT Solar Tracker Project. All rights reserved.
+
+---
+---
+⭐ If you found this project useful, feel free to star it!
+
 
