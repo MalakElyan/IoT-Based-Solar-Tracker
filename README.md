@@ -129,7 +129,7 @@ IoT-Based-Solar-Tracker/
 * 💼 **LinkedIn:** [Malak Elyan](https://www.linkedin.com/in/malak-elyan)
 
 ---
-
+## 🔒 Copyright & Terms of Use
 © 2026 Smart IoT Solar Tracker Project. All rights reserved.
 
 ---
