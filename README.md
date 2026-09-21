@@ -130,7 +130,7 @@ IoT-Based-Solar-Tracker/
 
 ---
 ## 🔒 Copyright & Terms of Use
-© 2026 Smart IoT Solar Tracker Project. All rights reserved.
+© 2022 Smart IoT Solar Tracker Project. All rights reserved.
 
 ---
 ⭐ If you found this project useful, feel free to star it!
